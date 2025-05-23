@@ -1,0 +1,59 @@
+<html>
+<head>
+<title>IV SEM BCA - TIMETABLE</title>
+</head>
+<body bgcolor="gray" text=”red”>
+<font face="times new roman" size="4">
+<h1 align="center">ISBR COLLEGE</h1>
+<h2 align="center">Dept. of Computer Applications</h2>
+<hr/>
+<h3 align="center">IV SEM BCA</h3>
+<hr/>
+<table align="center" border="3" cellpadding="3">
+<tr>
+<th>DAY/TIME</th>
+<th>9.00-9.50</th>
+<th>9.50-10.40</th>
+<th>10.40-10.50</th>
+<th>10.50-11.40</th>
+<th>11.40-12.30</th>
+</tr>
+<tr align="center">
+<td>MONDAY</td>
+<td>IT</td>
+<td>SE</td>
+<td rowspan="6" align="center" valign="center">BREAK</td>
+<td>ENG</td>
+<td>LANG</td>
+</tr>
+<tr align="center">
+<td>TUESDAY</td>
+<td>ENG</td>
+<td>ADA</td>
+<td>SE</td>
+<td>IT</td>
+</tr>
+<tr align="center">
+<td>WEDNESDAY</td>
+<td colspan="2" bgcolor="yellow">IT/ADA LAB</td>
+<td>SE</td>
+<td>ADA</td>
+</tr>
+<tr align="center">
+<td>THURSDAY</td>
+<td>IT</td>
+<td>ADA</td>
+<td>LANG</td>
+<td>SE</td>
+</tr>
+<tr align="center">
+<td>FRIDAY</td>
+<td>ADA</td>
+<td>SE</td>
+<td>IT</td>
+<td>ENG</td>
+</tr>
+</font>
+</table>
+</body>
+</html>

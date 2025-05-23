@@ -1,0 +1,27 @@
+<html>
+<head><title> ISBR College</title></head>
+<body bgcolor="gray" text= "blue">
+<h1> <center>ISBR COLLEGE</center></h1>
+<h2> <center>ELECTRONIC CITY</center></h2>
+	<center>BENGALURU</center>
+<img src="isbr.png" width="300" height="300" align="right">	  	
+<h1>
+COURSES OFFERED
+</h1>
+<ol>
+<li><b> UG COURSES</b>
+	<b><ol>SCIENCE</b>
+	<li>	 BCA </li>
+	</ol>
+	<b><ol>COMMERCE</b>
+	       <li>	BCOM </li>
+	        <li>	BBA </li>
+                       <li>BBA AVIATION</li>
+	</ol>
+<li><b>PG COURSES</b>
+<ol><li>MBA</li>
+<li>	MCA </li>
+<li>    MCom</li></ol>
+</ol>
+</body>
+</html>

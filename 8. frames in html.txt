@@ -1,0 +1,42 @@
+<html>
+<head> <title>Frameset  Demo</title>
+</head>
+<frameset rows="30%,40%,30%">
+<frame src="a1.html">
+<frame src="a2.html">
+<frame src="a3.html">
+</frameset>
+</html>
+
+
+Code for a1.html:
+<html>
+<head><title> hello</title></head>
+<body>
+<h1><center>Hello User</center></h1>
+</body>
+</html>
+
+Code for a2.html:
+<html>
+<head><title>College Logo </title></head>
+<body>
+<img src="isbr.png" height="300" width="300" >
+</body>
+</html>
+
+Code for a3.html:
+
+<html>
+<head>
+<title>College Details</title>
+</head>
+<body>
+<h1>
+<font face="Garamond"  color="Red">
+ISBR College 
+<p> Education at ISBR prepares you to think boldly and act confidently in any business environment. At ISBR the focus goes beyond education. ISBR aims to prepare students for life - transforming them into Leaders. </p>
+</font>
+</h1>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<html>
+<head>  
+<link rel="stylesheet" type="text/css" href="myex.css">  
+<style>  
+body 
+{  
+    background-color: gray;  
+}  
+p
+{
+color:red;
+text-align:center; 
+}
+</style>
+<body>
+<h1 style="color:blue;text-align:center;">This text is an example for inline CSS</h1>
+<b><p> Internal Style sheet is applied in this text</p></b>
+<h2>The External style sheet is applied on this heading</h1>  
+</body>
+</html>
+   CSS External file: myex.css
+h2 
+{  
+    color: navy;  
+    margin-left: 20px;  
+}
+

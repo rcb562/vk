@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!doctype html Public "-//w3c//dtd xhtml 1.0 transitional//en"
+"http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title> SUM OF N NUMBERS</title>
+<script type="text/javascript">
+function sum()
+{
+	var n,s,response;
+	n=prompt("Enter a positive integer");
+	n=parseInt(n);
+	s=0;
+	for(var i=1;i<=n;i++)
+	s=s+i;
+	alert("Sum of numbers upto " + n + " is : "+s);
+	
+	response=confirm("happy with the output??");
+	if(resposnse==true)
+	{
+		alert("happy");
+		return true;
+	}
+	else
+	{
+		alert("not happy");
+		return false;
+	}
+}
+</script>
+</head>
+<body>
+<h1 align="center">SUM OF N NUMBERS</h1>
+<form>
+<input type="button" value="Calculate Sum" onclick="sum();" />
+</form>
+</body>
+</html>
